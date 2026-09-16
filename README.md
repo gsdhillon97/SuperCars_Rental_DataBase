@@ -25,17 +25,6 @@ Hypercars Expo brings rental and purchase records into one database so a busines
 
 ## Repository contents
 
-Place this README alongside the SQL file in the repository root:
-
-```text
-.
-├── README.md
-├── final_project_code_UPDATED_061225 (1).sql
-└── assets/
-    ├── conceptual-diagram.png
-    └── conceptual-diagram.drawio
-```
-
 The SQL file contains database creation, table definitions, triggers, sample inserts, reporting queries, and intentional conflict tests.
 
 ## Database design
